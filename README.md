@@ -25,4 +25,4 @@ Explanation: Both “people” and “feel” have a letter that is repeated twi
 
 <h1>Solution</h1>
 <b>Run from cli like</b>
-<h3>php -f soluation01.php "Some people feel the rain, while others just get wet."</h3>
+<h3>php -f soluation.php "Some people feel the rain, while others just get wet."</h3>
